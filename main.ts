@@ -1,1 +1,1 @@
-console.log("firashrexfxdvs")
+console.log("firashs")
