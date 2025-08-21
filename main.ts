@@ -1,1 +1,1 @@
-console.log("firashs")
+console.log("firaweewshs")
